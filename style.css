@@ -1,0 +1,125 @@
+.box1 {
+    border: 1px solid black;
+    height: 100px;  
+    width: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    background-color: white;
+}
+.box2 {
+    border: 1px solid black;
+    height: 100px;  
+    width: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    background-color: white;
+}
+.box3 {
+    border: 1px solid black;
+    height: 100px;  
+    width: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    background-color: white;
+}
+.box4 {
+    border: 1px solid black;
+    height: 100px;  
+    width: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    background-color: white;
+}
+.box5 {
+    border: 1px solid black;
+    height: 100px;  
+    width: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    background-color: white;
+}
+.box6 {
+    border: 1px solid black;
+    height: 100px;  
+    width: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    background-color: white;
+}
+.box7 {
+    border: 1px solid black;
+    height: 100px;  
+    width: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    background-color: white;
+}
+.box8 {
+    border: 1px solid black;
+    height: 100px;  
+    width: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    background-color: white;
+}
+.box9 {
+    border: 1px solid black;
+    height: 100px;  
+    width: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    background-color: white;
+}
+
+h1 {
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Short Stack', cursive;
+    font-size: 70px;
+    margin-bottom: 20px;
+    color: black;
+}
+main {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+body {
+    background-image: url('https://thumbs.dreamstime.com/b/seamless-background-texture-backdrop-pattern-wallpaper-children-cartoon-doodle-toys-educational-games-kids-seamless-106101168.jpg');
+    background-size: 50%;
+    background-repeat: repeat;
+    
+
+}
+
+.button {
+    text-align: center;
+}
+
+.button-restart {
+    background-color: black;
+    font-family: 'Short Stack', cursive;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.result-display {
+    font-size: 40px;
+    font-family: 'Short Stack';
+    text-align: center;
+}
+
+
+
